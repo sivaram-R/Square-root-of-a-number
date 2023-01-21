@@ -33,6 +33,8 @@ squareroot(num1,iternum)
 
 ## Output:
 
+![square root of numbers](https://user-images.githubusercontent.com/121165794/213844292-f1172684-bf0d-4d6b-91ae-898d3a4a4e7f.jpg)
+
 
 
 ## Result:
